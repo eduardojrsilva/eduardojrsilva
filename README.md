@@ -2,8 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/eduardojrsilva">
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=eduardojrsilva&show_icons=true&count_private=true&theme=github_dark&hide=issues">
-  <img height="180em"src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojrsilva&layout=compact&theme=github_dark&langs_count=6">
+  <div style="display: flex">
+    <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=eduardojrsilva&show_icons=true&count_private=true&theme=github_dark&hide=issues">
+    <img height="180em"src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojrsilva&layout=compact&theme=github_dark&langs_count=6">
+  </div>
   
   <br><br>
   
