@@ -1,10 +1,11 @@
 ## Hi, I'm Eduardo Silva 👋️
 
 <div align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=eduardojrsilva&show_icons=true&count_private=true&theme=city_lights&hide_border=true&hide=issues,&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojrsilva&layout=compact&hide_border=true&theme=city_lights&bg_color=00000000&langs_count=6">
+  <a href="https://github.com/eduardojrsilva">
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=eduardojrsilva&show_icons=true&count_private=true&theme=github_dark&hide=issues">
+  <img height="180em"src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojrsilva&layout=compact&theme=github_dark&langs_count=6">
   
-  <br><br><br>
+  <br><br>
   
   <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eduardo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
