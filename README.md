@@ -2,10 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/eduardojrsilva">
-  <div style="display: flex">
-    <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=eduardojrsilva&show_icons=true&count_private=true&theme=github_dark&hide=issues">
-    <img height="180em"src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojrsilva&layout=compact&theme=github_dark&langs_count=6">
-  </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardojrsilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojrsilva&layout=compact&langs_count=6&theme=github_dark"/>
   
   <br><br>
   
